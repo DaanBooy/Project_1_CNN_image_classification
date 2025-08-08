@@ -2,7 +2,7 @@
 
 ## �� Overview
 
-This project focuses on building and evaluating Convolutional Neural Networks (CNNs) to classify images from the CIFAR-10 dataset. We experiment with optimizers (SGD and Adam), model depth, early stopping, and transfer learning with VGG16. A Gradio web app is also provided to test the final model.
+This project focuses on building and evaluating Convolutional Neural Networks (CNNs) to classify images from the CIFAR-10 dataset. We experimented with optimizers (SGD and Adam), model depth, early stopping, and transfer learning with VGG16. A web app is also provided to test the final model.
 
 ---
 
@@ -26,6 +26,11 @@ This project focuses on building and evaluating Convolutional Neural Networks (C
 ---
 
 ## �� Running the Project
+File explanation:
+project_1_deep_learning.ipynb - Our code where we build our model.
+requirements.txt. - summary of libararies needed to run the code correctly
+Multiple model.h5 files - with our saved model results.
+app.py - The app file that was used to build the app on HuggingFace spaces. See link below.
 
 1. Install dependencies:
 ```bash
@@ -37,7 +42,7 @@ pip install -r requirements.txt
 jupyter notebook project_1_deep_learning.ipynb
 ```
 
-3. (Optional) Test the Gradio app (if deployed):
+3. (Optional) Test the prediction app:
 👉 https://huggingface.co/spaces/DaanBooy/Image_Predictor
 
 ---
