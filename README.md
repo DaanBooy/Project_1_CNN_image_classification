@@ -44,7 +44,7 @@ jupyter notebook project_1_deep_learning.ipynb
 
 ## �� Authors
 
-Group 1: Daan, John.Bapiste, Katy
+Group 1: Daan, John-Bapiste, Katy
 
 ---
 
