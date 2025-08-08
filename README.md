@@ -27,11 +27,17 @@ This project focuses on building and evaluating Convolutional Neural Networks (C
 
 ## �� Running the Project
 File explanation:
+
 project_1_deep_learning.ipynb - Our code where we build our model.
+
 requirements.txt. - summary of libararies needed to run the code correctly.
+
 Multiple model.h5 files - with our saved model results.
+
 app.py - The app file that was used to build the app on HuggingFace spaces. See link below.
+
 Report Project 1 - this word doc shows our report for this project.
+
 Presentation - Our powerpoint slides for this project.
 
 1. Install dependencies:
