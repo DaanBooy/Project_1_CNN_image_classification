@@ -38,7 +38,7 @@ jupyter notebook project_1_deep_learning.ipynb
 ```
 
 3. (Optional) Test the Gradio app (if deployed):
-👉 https://0f71a478d7a6a6e083.gradio.live
+👉 https://huggingface.co/spaces/DaanBooy/Image_Predictor
 
 ---
 
